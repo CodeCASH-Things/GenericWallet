@@ -1,0 +1,2 @@
+# GenericWallet
+Generic Crypto Wallet
